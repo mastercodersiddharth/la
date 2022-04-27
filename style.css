@@ -1,0 +1,27 @@
+.heading{
+    width:100%;
+    text-align:center
+}
+.heading h3{
+    display: inline;
+      
+}
+.heading button{
+    float: right;
+    border: 1px solid red;
+}
+.bighero6{
+    width: 100%;
+}
+h4
+{
+    background-color: black;
+    line-height: 2;
+    margin:0px
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
